@@ -12,4 +12,4 @@ Do this to compile and run:
 1)g++ -o logger main.cpp Logger.cpp
 2)./logger
 
-Thank you!
+I hope that everything is correct. Thank you!
